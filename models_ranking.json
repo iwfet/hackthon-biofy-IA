@@ -1,0 +1,207 @@
+{
+    "models": {
+      "SDXL": {
+        "repo": "stabilityai/stable-diffusion-xl-base-1.0",
+        "style": ["realistic", "detailed", "general"],
+        "strengths": ["high quality", "complex prompts", "versatility"],
+        "weaknesses": ["speed", "memory"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "RealVisXL": {
+        "repo": "SG161222/RealVisXL_V3.0",
+        "style": ["photorealistic", "portrait"],
+        "strengths": ["human faces", "details", "realism"],
+        "weaknesses": ["artistic styles"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "Anime": {
+        "repo": "cagliostrolab/animix-xl",
+        "style": ["anime", "cartoon", "manga"],
+        "strengths": ["character design", "fast generation", "expressions"],
+        "weaknesses": ["realism", "backgrounds"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "CounterfeitXL": {
+        "repo": "gsdf/Counterfeit-XL",
+        "style": ["anime", "2.5D"],
+        "strengths": ["anime style", "vibrant colors", "consistency"],
+        "weaknesses": ["realism"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "RevAnimated": {
+        "repo": "s6yx/RevAnimated",
+        "style": ["anime", "painterly"],
+        "strengths": ["dynamic poses", "artistic", "concept art"],
+        "weaknesses": ["photorealism"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "DreamShaper": {
+        "repo": "Lykon/DreamShaper",
+        "style": ["fantasy", "concept art", "painterly"],
+        "strengths": ["creativity", "artistic styles", "imagination"],
+        "weaknesses": ["consistency", "realism"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "ZavyChromaXL": {
+        "repo": "datadriven-art/ZavyChromaXL",
+        "style": ["concept art", "digital painting"],
+        "strengths": ["color vibrancy", "stylized", "fantasy"],
+        "weaknesses": ["realism"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "KandinskyXL": {
+        "repo": "kandinsky-community/kandinsky-xl",
+        "style": ["abstract", "artistic"],
+        "strengths": ["unique styles", "creative", "non-traditional"],
+        "weaknesses": ["realism", "consistency"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "PonyDiffusion": {
+        "repo": "AstraliteHeart/pony-diffusion-v4-xl",
+        "style": ["anime", "cartoon", "stylized"],
+        "strengths": ["character design", "NSFW content", "variety"],
+        "weaknesses": ["realism"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "ProtoVisionXL": {
+        "repo": "darkstorm2150/Protogen_x5.8_Official_Release",
+        "style": ["sci-fi", "cyberpunk", "futuristic"],
+        "strengths": ["tech designs", "futuristic scenes", "mechanical"],
+        "weaknesses": ["historical", "natural scenes"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "CyberRealistic": {
+        "repo": "CyberAIArt/CyberRealistic",
+        "style": ["cyberpunk", "futuristic", "realistic"],
+        "strengths": ["techwear", "neon lights", "urban futurism"],
+        "weaknesses": ["natural landscapes", "historical"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "PortraitPlus": {
+        "repo": "wavymulder/portraitplus",
+        "style": ["photorealistic", "portrait"],
+        "strengths": ["facial details", "expressions", "lighting"],
+        "weaknesses": ["landscapes", "abstract"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "AnalogMadness": {
+        "repo": "wavymulder/AnalogMadness",
+        "style": ["film photography", "vintage"],
+        "strengths": ["film grain", "retro look", "authentic feel"],
+        "weaknesses": ["digital look", "sharpness"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      },
+      "AlbedoBaseXL": {
+        "repo": "stabilityai/stable-diffusion-xl-base-1.0",
+        "style": ["landscape", "nature"],
+        "strengths": ["environments", "natural lighting", "outdoors"],
+        "weaknesses": ["portraits", "characters"],
+        "usage_count": 0,
+        "average_rating": 0,
+        "last_used": null,
+        "user_ratings": {},
+        "performance_metrics": {
+          "avg_generation_time": 0,
+          "success_rate": 1.0
+        }
+      }
+    },
+    "global_stats": {
+      "total_generations": 0,
+      "most_used_model": null,
+      "top_rated_model": null,
+      "avg_generation_time_all": 0,
+      "success_rate_all": 1.0
+    }
+  }

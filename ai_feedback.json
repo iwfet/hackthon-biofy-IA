@@ -1,0 +1,44 @@
+{
+    "interactions": [
+      {
+        "user_id": "58",
+        "model": "SDXL",
+        "prompt": "create car sport",
+        "rating": 4,
+        "timestamp": "2025-03-30 07:38:47.514154",
+        "metrics": {
+          "generation_time": 6.928591,
+          "memory_usage": 10718.2177734375,
+          "success": true
+        }
+      },
+      {
+        "user_id": "58",
+        "model": "RealVisXL",
+        "prompt": "create moto ciclo veloz turbo em carro",
+        "rating": 2,
+        "timestamp": "2025-03-30 07:40:28.649725",
+        "metrics": {
+          "generation_time": 6.213459,
+          "memory_usage": 17361.6220703125,
+          "success": true
+        }
+      }
+    ],
+    "model_stats": {
+      "SDXL": {
+        "total_uses": 1,
+        "avg_rating": 4.0,
+        "total_ratings": 1
+      },
+      "RealVisXL": {
+        "total_uses": 1,
+        "avg_rating": 2.0,
+        "total_ratings": 1
+      }
+    },
+    "global_stats": {
+      "repo": "stabilityai/stable-diffusion-xl-base-1.0",
+      "last_updated": "2025-03-30 07:37:50.084270"
+    }
+  }
